@@ -7,6 +7,8 @@ Permite dibujar curvas y realizar ediciones sobre las mismas, como ajustar tama�
 
 Para su correcto funcionamiento, se debe instalar la versión 2015 o posterior de Visual Studio.
 
+Para ejecutar la aplicación, se debe entrar en la carpeta bin y abrir el archivo ejecutable ".exe"
+
 El archivo PDF contiene el enunciado de dicha asignación y las funcionalidades que debía cumplir la aplicación.
 
 El archivo README.txt explica la forma de usar las funcionalidad de la aplicación.
